@@ -52,3 +52,8 @@ he normal distribution is a probability function that describes how the values o
 * Coefficient of variation
 ### Demo
 ![StatisticsSevenSecreen](https://user-images.githubusercontent.com/63965272/117465602-877d8600-af5a-11eb-911f-aa30ae5c56c4.png)
+
+
+## Specs
+* The added values can be used for Simple Random Sample, Frequency Series, Frequency Table, Central Tendency Standard and Distribution Standard operations.
+* In order to delete all data, write "xx" to numbers and click "Add" button twice.
